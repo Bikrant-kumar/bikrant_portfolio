@@ -1241,9 +1241,10 @@ textarea.form-input::-webkit-resizer { display: none; }
     background: var(--onyx);
     font-size: var(--fs-9);
     font-weight: var(--fw-270);
-    min-width: 75%;
+    min-width: 100%;
     padding: 3px 12px;
     border-radius: 8px;
+    margin-top: 5px;
     }
   
     .clients-content:hover { color: var(--orange-yellow-crayola); } 
@@ -1500,9 +1501,10 @@ textarea.form-input::-webkit-resizer { display: none; }
     background: var(--onyx);
     font-size: var(--fs-9);
     font-weight: var(--fw-270);
-    min-width: 75%;
+    min-width: 100%;
     padding: 3px 12px;
     border-radius: 8px;
+    margin: 5px;
   }
 
   .clients-content:hover { color: var(--orange-yellow-crayola); }
