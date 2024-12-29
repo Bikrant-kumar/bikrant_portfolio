@@ -1241,7 +1241,7 @@ textarea.form-input::-webkit-resizer { display: none; }
     background: var(--onyx);
     font-size: var(--fs-9);
     font-weight: var(--fw-270);
-    min-width: 43%;
+    min-width: 60%;
     padding: 3px 12px;
     border-radius: 8px;
     }
@@ -1500,7 +1500,7 @@ textarea.form-input::-webkit-resizer { display: none; }
     background: var(--onyx);
     font-size: var(--fs-9);
     font-weight: var(--fw-270);
-    min-width: 43%;
+    min-width: 60%;
     padding: 3px 12px;
     border-radius: 8px;
   }
@@ -1620,7 +1620,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   .clients-list {
     gap: 15px;
     margin: -25px 1% 0 1%;
-    padding: 45px;
+    padding: 50px;
     scroll-padding-inline: 45px;
     display: flex;
     justify-content: flex-start;
